@@ -25,6 +25,8 @@ header {
   color: #F6F6F6;
   display: flex;
   justify-content: space-between;
+  position: sticky;
+  top: 0;
   width: 100%;
 }
 
